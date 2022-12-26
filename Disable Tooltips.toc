@@ -1,0 +1,5 @@
+## Title: Disable Tooltips
+## Notes: Disable character tooltips when mouseover
+## Author: Tinesh
+## Version: 1.0.0
+Disable Tooltips.lua
