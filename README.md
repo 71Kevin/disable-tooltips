@@ -1,2 +1,2 @@
 # disable-tooltips
-The Disable Tooltips addon for World of Warcraft.
+Disable character tooltips when mouseover in World of Warcraft.
