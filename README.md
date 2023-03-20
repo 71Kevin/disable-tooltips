@@ -17,7 +17,7 @@ World of Warcraft (WoW) is a massively multiplayer online role-playing game (MMO
 ## About Addons
 Addons are user-created modifications to the World of Warcraft user interface. They can add new features, change the appearance of the game, or automate certain tasks. Addons are usually written in Lua, a lightweight programming language.
 
-# About the Tooltip Disabler Addon
+## About the Tooltip Disabler Addon
 The Tooltip Disabler addon is a simple but useful addon that disables character tooltips when mousing over players in the game world. This can be useful in crowded areas where tooltips can clutter the screen and make it difficult to see what's going on.
 
 To use the addon, simply install it following the instructions above. The addon will automatically disable character tooltips when you mouse over players in the game world. To re-enable tooltips, simply disable or uninstall the addon.
