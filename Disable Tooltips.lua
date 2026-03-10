@@ -1,10 +1,6 @@
-local Tooltip = require("Modules.Tooltip.Tooltip")
+local function HideTooltip(self)
+    self:Hide()
+end
 
-GameTooltip:HookScript(
-    "OnShow",
-    function(self)
-        if self:GetOwner() == UIParent then
-            Tooltip:Hide()
-        end
-    end
-)
+GameTooltip:HookScript("OnTooltipSetUnit", HideTooltip)
+GameTooltip:HookScript("OnTooltipSetSpell", HideTooltip)
